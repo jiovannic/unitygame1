@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C4EB7678-E8E5-A247-6BC8-640DA0BC3AE5}") = "Couch Wars Jio", "Assembly-CSharp.csproj", "{549DDD23-15BF-5A2B-3769-63F6A859E3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{549DDD23-15BF-5A2B-3769-63F6A859E3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549DDD23-15BF-5A2B-3769-63F6A859E3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549DDD23-15BF-5A2B-3769-63F6A859E3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549DDD23-15BF-5A2B-3769-63F6A859E3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
