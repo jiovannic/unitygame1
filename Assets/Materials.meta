@@ -1,8 +1,15 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: e5dbc7bfeb0203344a6c08c8ed7678bc
 folderAsset: yes
 timeCreated: 1426689574
 licenseType: Store
+=======
+guid: 7609b7288a277a647b992ca74bc3fd7b
+folderAsset: yes
+timeCreated: 1464812157
+licenseType: Free
+>>>>>>> 13b658be039a5fa8bdb4713b0f1504a564ec8683
 DefaultImporter:
   userData: 
   assetBundleName: 
